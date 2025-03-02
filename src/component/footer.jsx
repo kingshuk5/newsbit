@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="footer" id='contact'>
             <div className="footer-content">
-                <p>&copy; 2025 TSP NewsBit. All rights reserved by Krishnendu & Kingshuk.</p>
+                <p>&copy; 2025 TSP NewsBit. All rights reserved by Krishnendu </p>
             </div>
             <div className="card">
             <a className="socialContainer containerOne" href="https://www.instagram.com/thehittimes/">
